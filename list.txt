@@ -2,3 +2,4 @@
 ==========================
 lauv                 steal
 sia                   show
+찰리                  dang
